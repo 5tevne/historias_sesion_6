@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/47/47acdd971e784b6149e7b05bddc946f1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bungee Shade', cursive;
+    
+    
+}
+label{
+    color: rgb(219, 222, 231);
+    background-color: rgba(0, 0, 0, 0.426);
+    font-size: 25px;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.44);
+    color: aqua;
+    ;
+}
+input{
+    background-color: rgba(0, 255, 255, 0.54);
+    font-size: 30px; ;
+}
